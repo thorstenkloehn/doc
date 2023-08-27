@@ -5,7 +5,7 @@ type: "page"
 menu: 
   main:
     name: "Datenbank Installation"
-    weight: 
+    weight: 1
     
 ---
 # Installation der Datenbank
