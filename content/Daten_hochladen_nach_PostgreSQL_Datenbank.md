@@ -29,7 +29,7 @@ osm2pgsql -c -d <Datenbankname> -U <Nutzername> -H localhost -S /usr/share/osm2p
 * --hstore : Erstellt eine zusätzliche Spalte mit allen Tags als hstore.
 * -G : Erstellt eine zusätzliche Spalte mit allen Tags als JSON.
 * -a : Fügt die Daten an die bestehenden Daten an.
-* -O : Erstellt eine zusätzliche Spalte mit allen Tags als OSM XML.
+* -o : Erstellt eine zusätzliche Spalte mit allen Tags als OSM XML.
 * -S : Pfad zur Style Datei.
 * -k : Erstellt eine zusätzliche Spalte mit allen Tags als Text.
   *  --hstore : Erstellt eine zusätzliche Spalte mit allen Tags als hstore.
