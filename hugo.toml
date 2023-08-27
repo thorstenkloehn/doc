@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://doc.ahrensburg-dev.de/'
+languageCode = 'de-de'
+title = 'Dokument'
+theme =["github.com/thorstenkloehn/ahrensburg-themen"]
