@@ -25,7 +25,7 @@ set(CMAKE_CXX_STANDARD 14)
 find_package(libpq REQUIRED)
 find_package(PostgreSQL REQUIRED)
 find_package(yaml-cpp REQUIRED)
-find_package(start REQUIRED)
+find_package(drogon REQUIRED)
 
 # Add the executable
 add_executable(drogon_example main.cpp)
