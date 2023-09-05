@@ -80,10 +80,7 @@ int main() {
   return 0;
 }
 ```
-### yaml Datei
-
-```yaml
-## Beispiel yaml Datei
+### Beispiel yaml Datei
 ```yaml
 host: localhost
 port: 5432
