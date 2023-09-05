@@ -28,7 +28,7 @@ find_package(yaml-cpp REQUIRED)
 find_package(drogon REQUIRED)
 
 # Add the executable
-add_executable(drogon_example main.cpp)
+add_executable(start main.cpp)
 
 # Link against the required libraries
 target_link_libraries(start ${PostgreSQL_LIBRARIES} yaml-cpp drogon)
