@@ -20,20 +20,22 @@ cmake_minimum_required(VERSION 3.15)
 project(start)
 
 set(CMAKE_CXX_STANDARD 14)
-find_package(libpq REQUIRED)
+
 find_package(PostgreSQL REQUIRED)
+
 add_executable(start main.cpp)
-target_link_libraries(start {PostgreSQL_LIBRARIES} yaml-cpp)
+
+target_link_libraries(start ${PostgreSQL_LIBRARIES} yaml-cpp)
 ```
 ## Beispiel code
 ```c++
 #include <iostream>
 #include <yaml-cpp/yaml.h>
-#include <libpq-fe.h>
+#include <postgresql/libpq-fe.h>
 
 int main() {
  // Load the YAML document from a file
-  YAML::Node config = YAML::LoadFile("config.yaml");
+  YAML::Node config = YAML::LoadFile("../config.yaml");
 
   // Extract the configuration values
   std::string host = config["host"].as<std::string>();
@@ -56,8 +58,10 @@ int main() {
 ```yaml
 host: localhost
 port: 5432
-database: mydb
-user: myuser
-password: mypassword
+database: thorsten
+user: thorsten
+password: Test
+```
+
 
 
