@@ -8,15 +8,26 @@ menu:
     weight: 8
     
 ---
-# Programmiersprachen
+# Programmiersprachen 
 * Python
 * Javascript
 * Sql
 * Golang
+* Java
 * C
 * Rust
 * C++
 
+
+## Programmiersprachen Performance Benchmark
+1. C
+2. Rust
+3. C++
+4. Golang
+5. Java
+6. Javascript
+7. Python
+8. SQL
 ## Linksliste
 * [Python](https://www.python.org/)
 * [Javascript](https://www.javascript.com/)
@@ -87,6 +98,16 @@ menu:
 
 ### Cheat Sheet Golang
 * [Golang Cheat Sheet](https://devhints.io/go)
+## Java
+### Java Tutorial
+* [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
+* [Java Tutorial](https://www.learnjavaonline.org/)
+* [Java Tutorial](https://www.w3schools.com/java/default.asp)
+* [Java Tutorial](https://www.programiz.com/java-programming)
+* [Java Tutorial](https://www.javatpoint.com/java-tutorial)
+* [Java Tutorial](https://www.geeksforgeeks.org/java/)
+* [Java Tutorial](https://www.javatpoint.com/java-tutorial)
+
 
 ## C
 ### C Tutorial
