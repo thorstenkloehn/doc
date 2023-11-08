@@ -8,31 +8,38 @@ menu:
     weight: 8
     
 ---
-# Programmiersprachen 
+# Programmiersprachen leicht zu lernen 
 * Python
 * Javascript
 * Sql
 * Golang
+* Ruby
+* PHP
 * Java
 * C
 * Rust
 * C++
 
 
-## Programmiersprachen Performance Benchmark
+# Programmiersprachen Performance Benchmark
 1. C
 2. Rust
 3. C++
 4. Golang
 5. Java
-6. Javascript
-7. Python
-8. SQL
+6. PHP
+7. Ruby
+8. Javascript
+9. Python
+10. SQL
 ## Linksliste
 * [Python](https://www.python.org/)
 * [Javascript](https://www.javascript.com/)
 * [SQL](https://de.wikipedia.org/wiki/SQL)
 * [Golang](https://golang.org/)
+* [Ruby](https://www.ruby-lang.org/de/)
+* [PHP](https://www.php.net/)
+* [Java](https://www.java.com/de/)
 * [C](https://de.wikipedia.org/wiki/C_(Programmiersprache))
 * [C++](https://de.wikipedia.org/wiki/C%2B%2B)
 * [Rust](https://www.rust-lang.org/)
@@ -98,6 +105,29 @@ menu:
 
 ### Cheat Sheet Golang
 * [Golang Cheat Sheet](https://devhints.io/go)
+
+## Ruby
+### Ruby Tutorial
+* [Ruby Tutorial](https://www.ruby-lang.org/de/documentation/quickstart/)
+* [Ruby Tutorial](https://www.tutorialspoint.com/ruby/index.htm)
+* [Ruby Tutorial](https://www.learnrubyonline.org/)
+* [Ruby Tutorial](https://www.rubyguides.com/ruby-tutorial/)
+
+## PHP
+### PHP Tutorial
+* [PHP Tutorial](https://www.php.net/manual/de/tutorial.php)
+* [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
+* [PHP Tutorial](https://www.learn-php.org/)
+* [PHP Tutorial](https://www.w3schools.com/php/default.asp)
+* [PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
+* [PHP Tutorial](https://www.php-kurs.com/php-tutorial/)
+
+
+### Cheat Sheet PHP
+* [PHP Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/php/)
+
+
+
 ## Java
 ### Java Tutorial
 * [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
@@ -106,7 +136,6 @@ menu:
 * [Java Tutorial](https://www.programiz.com/java-programming)
 * [Java Tutorial](https://www.javatpoint.com/java-tutorial)
 * [Java Tutorial](https://www.geeksforgeeks.org/java/)
-* [Java Tutorial](https://www.javatpoint.com/java-tutorial)
 
 
 ## C
