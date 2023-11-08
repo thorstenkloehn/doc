@@ -52,6 +52,8 @@ menu:
 * [Python Tutorial](https://www.learnpython.org/)
 * [Python Tutorial](https://www.programiz.com/python-programming)
 * [Python Tutorial](https://www.python.org/about/gettingstarted/)
+### Python Wikibooks
+* [Python Wikibooks](https://de.wikibooks.org/wiki/Python)
 
 ### Udemey Kurse
 * [Python Bootcamp](https://www.udemy.com/course/python-bootcamp/)
@@ -71,6 +73,8 @@ menu:
 
 ### Udemey Kurse in deutsch Sprache
 * [Die komplette JavaScript Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett/)
+### Javascript Wikibooks
+* [Javascript Wikibooks](https://de.wikibooks.org/wiki/JavaScript)
 
 ###  Cheat Sheet Javascript
 * [Javascript Cheat Sheet](https://htmlcheatsheet.com/js/)
