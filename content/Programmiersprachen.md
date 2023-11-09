@@ -13,8 +13,6 @@ menu:
 * Javascript
 * Sql
 * Golang
-* Ruby
-* PHP
 * Java
 * C
 * Rust
@@ -22,16 +20,14 @@ menu:
 
 
 # Programmiersprachen Performance Benchmark
-1. C
-2. Rust
-3. C++
-4. Golang
-5. Java
-6. PHP
-7. Ruby
-8. Javascript
-9. Python
-10. SQL
+* C
+* Rust
+* C++
+* Golang
+* Java
+* Javascript
+* Python
+* SQL
 ## Linksliste
 * [Python](https://www.python.org/)
 * [Javascript](https://www.javascript.com/)
@@ -110,26 +106,6 @@ menu:
 ### Cheat Sheet Golang
 * [Golang Cheat Sheet](https://devhints.io/go)
 
-## Ruby
-### Ruby Tutorial
-* [Ruby Tutorial](https://www.ruby-lang.org/de/documentation/quickstart/)
-* [Ruby Tutorial](https://www.tutorialspoint.com/ruby/index.htm)
-* [Ruby Tutorial](https://www.learnrubyonline.org/)
-* [Ruby Tutorial](https://www.rubyguides.com/ruby-tutorial/)
-
-## PHP
-### PHP Tutorial
-* [PHP Tutorial](https://www.php.net/manual/de/tutorial.php)
-* [PHP Tutorial](https://www.tutorialspoint.com/php/index.htm)
-* [PHP Tutorial](https://www.learn-php.org/)
-* [PHP Tutorial](https://www.w3schools.com/php/default.asp)
-* [PHP Tutorial](https://www.php-einfach.de/php-tutorial/)
-* [PHP Tutorial](https://www.php-kurs.com/php-tutorial/)
-
-
-### Cheat Sheet PHP
-* [PHP Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/php/)
-
 
 
 ## Java
@@ -140,7 +116,6 @@ menu:
 * [Java Tutorial](https://www.programiz.com/java-programming)
 * [Java Tutorial](https://www.javatpoint.com/java-tutorial)
 * [Java Tutorial](https://www.geeksforgeeks.org/java/)
-
 
 ## C
 ### C Tutorial
@@ -171,48 +146,3 @@ menu:
 
 ### cheat sheet C++
 * [C++ Cheat Sheet](https://cheatsheetsonline.blogspot.com/2011/05/c-cheat-sheet.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
