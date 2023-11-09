@@ -33,8 +33,6 @@ menu:
 * [Javascript](https://www.javascript.com/)
 * [SQL](https://de.wikipedia.org/wiki/SQL)
 * [Golang](https://golang.org/)
-* [Ruby](https://www.ruby-lang.org/de/)
-* [PHP](https://www.php.net/)
 * [Java](https://www.java.com/de/)
 * [C](https://de.wikipedia.org/wiki/C_(Programmiersprache))
 * [C++](https://de.wikipedia.org/wiki/C%2B%2B)
