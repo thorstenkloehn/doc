@@ -13,7 +13,6 @@ menu:
 * Javascript
 * Sql
 * Golang
-* Java
 * C
 * Rust
 * C++
@@ -24,7 +23,6 @@ menu:
 * Rust
 * C++
 * Golang
-* Java
 * Javascript
 * Python
 * SQL
@@ -33,7 +31,6 @@ menu:
 * [Javascript](https://www.javascript.com/)
 * [SQL](https://de.wikipedia.org/wiki/SQL)
 * [Golang](https://golang.org/)
-* [Java](https://www.java.com/de/)
 * [C](https://de.wikipedia.org/wiki/C_(Programmiersprache))
 * [C++](https://de.wikipedia.org/wiki/C%2B%2B)
 * [Rust](https://www.rust-lang.org/)
@@ -103,17 +100,6 @@ menu:
 
 ### Cheat Sheet Golang
 * [Golang Cheat Sheet](https://devhints.io/go)
-
-
-
-## Java
-### Java Tutorial
-* [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
-* [Java Tutorial](https://www.learnjavaonline.org/)
-* [Java Tutorial](https://www.w3schools.com/java/default.asp)
-* [Java Tutorial](https://www.programiz.com/java-programming)
-* [Java Tutorial](https://www.javatpoint.com/java-tutorial)
-* [Java Tutorial](https://www.geeksforgeeks.org/java/)
 
 ## C
 ### C Tutorial
