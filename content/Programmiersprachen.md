@@ -12,7 +12,10 @@ menu:
 * Python
 * Javascript
 * Sql
+* Ruby
+* PHP
 * Golang
+* Java
 * C
 * Rust
 * C++
