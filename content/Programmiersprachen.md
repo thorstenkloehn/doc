@@ -12,13 +12,11 @@ menu:
 * Python
 * Javascript
 * Sql
-* Ruby
-* PHP
 * Golang
-* Java
 * C
 * Rust
 * C++
+* Bash Scripting
 
 
 # Programmiersprachen Performance Benchmark
