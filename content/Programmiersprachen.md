@@ -13,6 +13,7 @@ menu:
 * Javascript
 * Sql
 * Golang
+* Java
 * C
 * Rust
 * C++
@@ -24,6 +25,7 @@ menu:
 * Rust
 * C++
 * Golang
+* Java
 * Javascript
 * Python
 * SQL
