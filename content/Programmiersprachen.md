@@ -11,24 +11,19 @@ menu:
 # Programmiersprachen leicht zu lernen 
 * Python
 * Javascript
-* Sql
 * Golang
 * Java
-* C
 * Rust
+* C
 * C++
-* Bash Scripting
 
 
 # Programmiersprachen Performance Benchmark
-* C
 * Rust
-* C++
 * Golang
 * Java
 * Javascript
 * Python
-* SQL
 ## Linksliste
 * [Python](https://www.python.org/)
 * [Javascript](https://www.javascript.com/)
@@ -73,13 +68,6 @@ menu:
 ###  Cheat Sheet Javascript
 * [Javascript Cheat Sheet](https://htmlcheatsheet.com/js/)
 
-## SQL Postgresql
-### SQL Tutorial
-* [SQL Tutorial](https://www.postgresqltutorial.com/)
-* [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-* [SQL Tutorial](https://www.tutorialspoint.com/postgresql/index.htm)
-* [SQL Tutorial](https://www.postgresql.org/docs/16/tutorial.html)
-* [SQL Tutorial](https://www.postgresql.org/docs/16/tutorial-start.html)
 
 ### Udemey Kurse in deutsch Sprache
 * [PostgreSQL Bootcamp: SQL lernen und Datenbanken verwalten](https://www.udemy.com/course/postgresql-bootcamp-sql-lernen-und-datenbanken-verwalten/)
