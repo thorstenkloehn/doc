@@ -12,7 +12,6 @@ menu:
 * Python
 * Javascript
 * Golang
-* Java
 * Rust
 * C
 * C++
@@ -21,7 +20,6 @@ menu:
 # Programmiersprachen Performance Benchmark
 * Rust
 * Golang
-* Java
 * Javascript
 * Python
 ## Linksliste
